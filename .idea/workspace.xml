@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7684d51-5104-4a01-beb7-969aeaef3c4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/details/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/professions/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/professions/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/vehicles/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/Second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/aleksyeLoginov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/details/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/production/aleksyeLoginov/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/production/aleksyeLoginov/production/aleksyeLoginov/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/professions/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aleksyeLoginov.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aleksyeLoginov.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/Task4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +61,9 @@
     </option>
   </component>
   <component name="ProjectId" id="203DdquAQIjZaxpMoQ17UrcwVac" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,13 +80,20 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="aleksyeLoginov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture2.Second" />
       <module name="aleksyeLoginov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +106,7 @@
       <module name="aleksyeLoginov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,7 +120,7 @@
       <option name="MAIN_CLASS_NAME" value="Lecture2.Task4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,15 +128,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Truck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vehicles.Truck" />
       <module name="aleksyeLoginov" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="aleksyeLoginov" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,9 +139,13 @@
       <item itemvalue="Application.Second" />
       <item itemvalue="Application.Task3" />
       <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.Truck" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Truck" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Second" />
@@ -130,6 +164,8 @@
       <workItem from="1635350728404" duration="698000" />
       <workItem from="1635422740610" duration="27000" />
       <workItem from="1635422817243" duration="8982000" />
+      <workItem from="1635793682624" duration="7672000" />
+      <workItem from="1636309651801" duration="6510000" />
     </task>
     <servers />
   </component>
