@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7684d51-5104-4a01-beb7-969aeaef3c4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/details/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/professions/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/professions/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/vehicles/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectCar/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/Second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/aleksyeLoginov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/SportCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/details/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/production/aleksyeLoginov/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/production/aleksyeLoginov/production/aleksyeLoginov/production/aleksyeLoginov/Lecture2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/professions/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/tets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aleksyeLoginov.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aleksyeLoginov.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aleksyeLoginov/Lecture2/Task4.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="40c7cd2c-9f33-428b-968b-001f96ff195a" />
+        <option name="url" value="git@github.com:loginov87/aleksyeLoginov.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="203DdquAQIjZaxpMoQ17UrcwVac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="aleksyeLoginov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.Second" />
+      <module name="aleksyeLoginov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.Task3" />
+      <module name="aleksyeLoginov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Lecture2.Task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Truck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vehicles.Truck" />
+      <module name="aleksyeLoginov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Second" />
+      <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.Truck" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Truck" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Second" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7684d51-5104-4a01-beb7-969aeaef3c4f" name="Changes" comment="" />
+      <created>1635264472437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635264472437</updated>
+      <workItem from="1635264482077" duration="3135000" />
+      <workItem from="1635350728404" duration="698000" />
+      <workItem from="1635422740610" duration="27000" />
+      <workItem from="1635422817243" duration="8982000" />
+      <workItem from="1635793682624" duration="7672000" />
+      <workItem from="1636309651801" duration="2068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
