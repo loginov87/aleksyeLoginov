@@ -1,10 +1,8 @@
-public class Lucky {
+public class Lucky
+{
 
-    public static void main(String[] args){
-
-
-        int[] array = {15, 8, 24, 41, 9, 84};
-        int a = (int) (Math.random()*5);
+        public int[] array = {15, 8, 24, 41, 9, 84};
+        public int a = (int) (Math.random()*5);
 
         if (a%2 == 0)
         {
@@ -14,5 +12,5 @@ public class Lucky {
         {
             System.out.println("Run again");
         }
-    }
+
 }
