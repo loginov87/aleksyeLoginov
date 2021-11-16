@@ -1,6 +1,4 @@
-package Lecture2;
-
-public class Task3 {
+public class Lucky {
 
     public static void main(String[] args){
 
@@ -17,5 +15,4 @@ public class Task3 {
             System.out.println("Run again");
         }
     }
-
 }
