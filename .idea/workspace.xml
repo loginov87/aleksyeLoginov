@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c040ad-805f-4389-a876-fca0e9ee84b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture5/lecture5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/lecture5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/lecture5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/src/main/java/Calculator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture5/src/main/java/Lucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/src/main/java/Lucky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture5/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/src/test/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/src/test/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/target/classes/Lucky.class" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/target/classes/Lucky.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/target/test-classes/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -59,11 +62,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.FirstTest">
     <configuration name="Lucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lucky" />
       <module name="lecture5" />
@@ -71,9 +77,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lecture5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.isLuck" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lecture5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="isLuck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.isNull" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lecture5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="isNull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lecture5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FirstTest" />
+        <item itemvalue="TestNG.FirstTest.isLuck" />
+        <item itemvalue="TestNG.FirstTest.isNull" />
         <item itemvalue="Application.Lucky" />
+        <item itemvalue="TestNG.FirstTest.testSum" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +144,7 @@
       <updated>1636655936196</updated>
       <workItem from="1636655937372" duration="1729000" />
       <workItem from="1637067941648" duration="4875000" />
-      <workItem from="1637072839110" duration="2008000" />
+      <workItem from="1637072839110" duration="16105000" />
     </task>
     <servers />
   </component>

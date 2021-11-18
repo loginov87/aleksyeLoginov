@@ -1,16 +1,14 @@
 public class Lucky
 {
 
-        public int[] array = {15, 8, 24, 41, 9, 84};
-        public int a = (int) (Math.random()*5);
+    public String checkInt(int[] array, int index) {
 
-        if (a%2 == 0)
-        {
-            System.out.println("I am lucky");
-        }
-        else
-        {
-            System.out.println("Run again");
-        }
+        if (array[index] % 2 == 0)
+
+            return "I am lucky";
+
+            return "Run again";
+
+    }
 
 }
