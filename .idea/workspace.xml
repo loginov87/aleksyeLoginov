@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c040ad-805f-4389-a876-fca0e9ee84b5" name="Changes" comment="" />
+    <list default="true" id="74c040ad-805f-4389-a876-fca0e9ee84b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_3_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_5_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/src/main/resources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/src/test/java/FirstSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/src/test/java/SecondSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/src/test/java/ThirdSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/target/classes/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/target/test-classes/FirstSelenium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/target/test-classes/SecondSelenium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/target/test-classes/ThirdSelenium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/lecture5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/lecture5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +73,31 @@
     </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="HomeTask10" />
+                    <option name="lastUsedInstant" value="1637430565" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="HomeTask9" />
+                    <option name="lastUsedInstant" value="1637430564" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="ProjectId" id="20mhtK1F3sIUzkEofC41bSw6EdW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -51,6 +115,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,18 +125,11 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FirstTest">
-    <configuration name="Lucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lucky" />
-      <module name="lecture5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FourthSelenium.formUiTest">
+    <configuration name="FourthSelenium (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lecture5" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="MAIN_CLASS_NAME" value="FourthSelenium" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -79,11 +137,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.isLuck" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FourthSelenium (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lecture5" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="isLuck" />
+      <option name="MAIN_CLASS_NAME" value="FourthSelenium" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourthSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lecture5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FourthSelenium" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourthSelenium.formUiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lecture5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FourthSelenium" />
+      <option name="METHOD_NAME" value="formUiTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -91,23 +171,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.isNull" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ThirdSelenium.thirdtUiTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lecture5" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="isNull" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="lecture5" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="testSum" />
+      <option name="MAIN_CLASS_NAME" value="ThirdSelenium" />
+      <option name="METHOD_NAME" value="thirdtUiTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstTest" />
-        <item itemvalue="TestNG.FirstTest.isLuck" />
-        <item itemvalue="TestNG.FirstTest.isNull" />
-        <item itemvalue="Application.Lucky" />
-        <item itemvalue="TestNG.FirstTest.testSum" />
+        <item itemvalue="TestNG.FourthSelenium.formUiTest" />
+        <item itemvalue="TestNG.FourthSelenium (2)" />
+        <item itemvalue="TestNG.FourthSelenium" />
+        <item itemvalue="TestNG.FourthSelenium (1)" />
+        <item itemvalue="TestNG.ThirdSelenium.thirdtUiTest" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +203,9 @@
       <updated>1636655936196</updated>
       <workItem from="1636655937372" duration="1729000" />
       <workItem from="1637067941648" duration="4875000" />
-      <workItem from="1637072839110" duration="16479000" />
+      <workItem from="1637072839110" duration="30962000" />
+      <workItem from="1637265375283" duration="23611000" />
+      <workItem from="1637651645567" duration="329000" />
     </task>
     <servers />
   </component>
