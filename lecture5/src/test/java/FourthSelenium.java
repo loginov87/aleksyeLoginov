@@ -1,5 +1,6 @@
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -50,8 +51,9 @@ public class FourthSelenium {
         mobileNumber.sendKeys("80660240210");
         WebElement genderRadio = driver.findElement(By.className("custom-radio"));
         genderRadio.click();
-        //WebElement dateBirth = driver.findElement(By.id("dateOfBirthInput"));
-        //dateBirth.sendKeys("5 Mar 1987");
+        WebElement element = driver.findElement(By.id("dateOfBirthInput"));
+        JavascriptExecutor jse = (JavascriptExecutor)driver;
+        jse.executeScript("arguments[0].value='12.12.2020';", element);
         Thread.sleep(2000);
         WebElement subject = driver.findElement(By.xpath("//*[@id=\"subjectsContainer\"]/div/div[1]"));
         subject.sendKeys("wehwrht,wrhtrt");
