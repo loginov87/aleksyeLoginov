@@ -1,3 +1,5 @@
+package Lecture2.lecture5.src.main.java;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
