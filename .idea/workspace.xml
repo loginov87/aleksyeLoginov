@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="74c040ad-805f-4389-a876-fca0e9ee84b5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
@@ -43,6 +44,7 @@
       <change beforePath="$PROJECT_DIR$/lecture5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture5/lecture5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/lecture5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lecture5/pom.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +104,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -109,6 +112,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -117,6 +121,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -144,10 +149,12 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="FourthSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lecture5" />
       <option name="PACKAGE_NAME" value="" />
@@ -155,10 +162,12 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="FourthSelenium.formUiTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lecture5" />
       <option name="PACKAGE_NAME" value="" />
@@ -167,10 +176,12 @@
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="ThirdSelenium.thirdtUiTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lecture5" />
       <option name="PACKAGE_NAME" value="" />
@@ -179,6 +190,7 @@
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
